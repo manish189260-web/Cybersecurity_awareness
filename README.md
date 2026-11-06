@@ -105,11 +105,3 @@ Save screenshots in a folder named `screenshots/`. Do not include personal accou
 ## 10. Suggested repository topics
 
 `python`, `cybersecurity`, `phishing-awareness`, `password-security`, `log-analysis`, `beginner-project`
-
-## 11. Internship submission note
-
-The EWB Assessment 01 PDF supplied separately is a written, scenario-based assessment (Tasks A–D). This repository is a suggested Python mini-project to accompany the internship announcement. If EWB has issued a separate official Python mini-project guide, follow that guide's exact project title, features and submission instructions before submitting this repository.
-
-## 12. Acknowledgement / learning note
-
-This project was prepared as a learning exercise. Before submission, review the code, run it yourself, understand each function, and add your own improvements or notes based on what you learned. Disclose any AI assistance according to your internship's rules.
