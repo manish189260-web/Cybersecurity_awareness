@@ -1,0 +1,9 @@
+timestamp,user,source_ip,event,result
+2026-10-18 09:00,student07,192.0.2.10,Password,Success
+2026-10-18 09:01,student07,192.0.2.10,MFA,Approved
+2026-10-18 10:14,student07,198.51.100.23,Password,Failed
+2026-10-18 10:15,student07,198.51.100.23,Password,Failed
+2026-10-18 10:16,student07,198.51.100.23,Password,Success
+2026-10-18 10:17,student07,198.51.100.23,MFA,Denied
+2026-10-18 10:18,student07,198.51.100.23,MFA,Approved
+2026-10-18 10:20,student07,198.51.100.23,Session,Created
