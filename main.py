@@ -1,5 +1,5 @@
 """
-Cybersecurity Awareness Toolkit
+Cybersecurity Awareness
 Educational mini project for EWB Cybersecurity Internship.
 
 This program works only with user-entered text and a synthetic CSV log.
