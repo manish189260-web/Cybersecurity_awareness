@@ -1,4 +1,4 @@
-# Cybersecurity Awareness Toolkit
+# Cybersecurity Awareness
 
 **Student:** Manish Malviya  
 **College:** UIT RGPV, Bhopal  
