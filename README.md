@@ -100,7 +100,7 @@ Save screenshots in a folder named `screenshots/`. Do not include personal accou
 
 ## 9. Suggested GitHub repository description
 
-`A Python-based cybersecurity awareness toolkit demonstrating password hygiene, phishing red-flag analysis, and synthetic login-log triage.`
+`A Python-based cybersecurity awareness demonstrating password hygiene, phishing red-flag analysis, and synthetic login-log triage.`
 
 ## 10. Suggested repository topics
 
